@@ -1,0 +1,297 @@
+[
+    {
+        "id": "D9140AC2-B21A-49EE-B8D3-A9BF519FE5C8",
+        "name": "Alabama",
+        "abbreviation": "AL"
+    },
+    {
+        "id": "37F41763-EE71-41A0-ABB7-D26861A0E692",
+        "name": "Alaska",
+        "abbreviation": "AK"
+    },
+    {
+        "id": "65CC3AAD-178C-4003-B9E1-10929437F7D4",
+        "name": "American Samoa",
+        "abbreviation": "AS"
+    },
+    {
+        "id": "C2CB7934-6E67-48C3-AE03-EB556005143D",
+        "name": "Arizona",
+        "abbreviation": "AZ"
+    },
+    {
+        "id": "E32393B7-4267-4AF1-B173-5ADD05A8801F",
+        "name": "Arkansas",
+        "abbreviation": "AR"
+    },
+    {
+        "id": "4DFFCA47-30C7-465D-AF1F-8BFAF5FB5C45",
+        "name": "California",
+        "abbreviation": "CA"
+    },
+    {
+        "id": "03193E76-A4E5-46B0-B19E-17FD79404022",
+        "name": "Colorado",
+        "abbreviation": "CO"
+    },
+    {
+        "id": "937C5C2C-F74C-4BD0-BC4F-B95E4ABC8E5C",
+        "name": "Connecticut",
+        "abbreviation": "CT"
+    },
+    {
+        "id": "41DD7C8C-2BA6-4BDA-A6C7-D042F9FB9CE9",
+        "name": "Delaware",
+        "abbreviation": "DE"
+    },
+    {
+        "id": "6CBFD694-03EC-49E7-B6B9-1282EC898CAF",
+        "name": "District Of Columbia",
+        "abbreviation": "DC"
+    },
+    {
+        "id": "E03CAA68-21C2-47D6-97E1-5BE4D8B50E6B",
+        "name": "Federated States Of Micronesia",
+        "abbreviation": "FM"
+    },
+    {
+        "id": "FF699E91-4F01-483F-B8B9-595E6CEAB900",
+        "name": "Florida",
+        "abbreviation": "FL"
+    },
+    {
+        "id": "F6BE5CEA-C6E5-4695-B6D9-A6612A346163",
+        "name": "Georgia",
+        "abbreviation": "GA"
+    },
+    {
+        "id": "ADEB8843-977A-42D1-AFAF-6085B53383DC",
+        "name": "Guam",
+        "abbreviation": "GU"
+    },
+    {
+        "id": "391020E6-0568-4B0C-98B0-44AC512918EB",
+        "name": "Hawaii",
+        "abbreviation": "HI"
+    },
+    {
+        "id": "0CCD4293-B248-484C-8953-F883AD9C0371",
+        "name": "Idaho",
+        "abbreviation": "ID"
+    },
+    {
+        "id": "3DC1E0E8-85FA-4DAF-93A3-363AC1896018",
+        "name": "Illinois",
+        "abbreviation": "IL"
+    },
+    {
+        "id": "D8ED7CC2-65DA-43D9-ABFF-2CB72B5FD841",
+        "name": "Indiana",
+        "abbreviation": "IN"
+    },
+    {
+        "id": "104D7C30-8B91-48A6-B57D-3E61A5188968",
+        "name": "Iowa",
+        "abbreviation": "IA"
+    },
+    {
+        "id": "0E72ABD3-6537-4572-B45B-9CBBFA4BE1BD",
+        "name": "Kansas",
+        "abbreviation": "KS"
+    },
+    {
+        "id": "C7C57156-B6AA-421E-890C-E2FA9A0D81DD",
+        "name": "Kentucky",
+        "abbreviation": "KY"
+    },
+    {
+        "id": "BB9B814B-9AE4-4F01-A760-6F4BF4BB9113",
+        "name": "Louisiana",
+        "abbreviation": "LA"
+    },
+    {
+        "id": "022FCAA3-327F-4529-A2CB-8D95CDF63A07",
+        "name": "Maine",
+        "abbreviation": "ME"
+    },
+    {
+        "id": "7C93584C-31D0-4839-8EB4-A40AD3EEB936",
+        "name": "Marshall Islands",
+        "abbreviation": "MH"
+    },
+    {
+        "id": "70E3B554-59DF-414F-A959-DFE4D409BE6C",
+        "name": "Maryland",
+        "abbreviation": "MD"
+    },
+    {
+        "id": "4332E0B0-4EBE-4A61-A021-81D0FB98066F",
+        "name": "Massachusetts",
+        "abbreviation": "MA"
+    },
+    {
+        "id": "14C4ABE4-3776-4CB7-96E7-3D1582952104",
+        "name": "Michigan",
+        "abbreviation": "MI"
+    },
+    {
+        "id": "2605E035-67D2-44D2-9928-CBAD8E8A8470",
+        "name": "Minnesota",
+        "abbreviation": "MN"
+    },
+    {
+        "id": "825A5F7E-723F-4541-9C85-CD6733416D24",
+        "name": "Mississippi",
+        "abbreviation": "MS"
+    },
+    {
+        "id": "CE739724-BB2F-476B-AF92-659F64574551",
+        "name": "Missouri",
+        "abbreviation": "MO"
+    },
+    {
+        "id": "00B90469-9792-4717-85D3-D234C41FE84E",
+        "name": "Montana",
+        "abbreviation": "MT"
+    },
+    {
+        "id": "3F8FE483-B35B-4003-A13C-DCD065A2899A",
+        "name": "Nebraska",
+        "abbreviation": "NE"
+    },
+    {
+        "id": "706E4FE4-6E26-4BBA-9AEB-B892C1998FFB",
+        "name": "Nevada",
+        "abbreviation": "NV"
+    },
+    {
+        "id": "3B5D2D7D-039D-4F83-9688-80A3F92D58EB",
+        "name": "New Hampshire",
+        "abbreviation": "NH"
+    },
+    {
+        "id": "A7070408-B225-4607-B86C-DB1733EBFC06",
+        "name": "New Jersey",
+        "abbreviation": "NJ"
+    },
+    {
+        "id": "93F6B9F4-3630-4758-956B-8E67F9609C40",
+        "name": "New Mexico",
+        "abbreviation": "NM"
+    },
+    {
+        "id": "469540AD-6C52-49EB-B789-FC95086B2777",
+        "name": "New York",
+        "abbreviation": "NY"
+    },
+    {
+        "id": "81A46433-5857-4DD2-A98F-1BA2FDAD1415",
+        "name": "North Carolina",
+        "abbreviation": "NC"
+    },
+    {
+        "id": "3CF6FD7D-EF7F-4D14-9315-40BC69514114",
+        "name": "North Dakota",
+        "abbreviation": "ND"
+    },
+    {
+        "id": "CA3AC68B-605B-4ACA-A79D-6A157A2AD22E",
+        "name": "Northern Mariana Islands",
+        "abbreviation": "MP"
+    },
+    {
+        "id": "96484231-E14C-45EF-B035-23A7D7168FA8",
+        "name": "Ohio",
+        "abbreviation": "OH"
+    },
+    {
+        "id": "DF89BA34-EE9F-4353-8C79-DE9E17DF3F09",
+        "name": "Oklahoma",
+        "abbreviation": "OK"
+    },
+    {
+        "id": "ABAD0A53-1667-4504-B769-9D7DF1B21A11",
+        "name": "Oregon",
+        "abbreviation": "OR"
+    },
+    {
+        "id": "0FA65BB4-D93B-48F1-A382-446DB7D83CB0",
+        "name": "Palau",
+        "abbreviation": "PW"
+    },
+    {
+        "id": "D50E3D59-C38C-4C22-979F-C24D2B44479F",
+        "name": "Pennsylvania",
+        "abbreviation": "PA"
+    },
+    {
+        "id": "9EA284AE-0548-48AF-8995-30FCB27A05F2",
+        "name": "Puerto Rico",
+        "abbreviation": "PR"
+    },
+    {
+        "id": "C35E9D93-2D18-4284-87BE-A611D10784C5",
+        "name": "Rhode Island",
+        "abbreviation": "RI"
+    },
+    {
+        "id": "7135289E-EE1E-4170-83B2-6585866B1A91",
+        "name": "South Carolina",
+        "abbreviation": "SC"
+    },
+    {
+        "id": "9151B09E-F376-4918-A982-C61397CBF146",
+        "name": "South Dakota",
+        "abbreviation": "SD"
+    },
+    {
+        "id": "D7029802-40EA-434B-900D-6A404EBCF66D",
+        "name": "Tennessee",
+        "abbreviation": "TN"
+    },
+    {
+        "id": "B2ACE233-8714-4CDD-99F2-806920308D65",
+        "name": "Texas",
+        "abbreviation": "TX"
+    },
+    {
+        "id": "E9A5BB49-0A84-4E39-964B-7BF1F6062D36",
+        "name": "Utah",
+        "abbreviation": "UT"
+    },
+    {
+        "id": "345FD386-E4F6-45B3-912C-664955D4989B",
+        "name": "Vermont",
+        "abbreviation": "VT"
+    },
+    {
+        "id": "8AA3884F-4046-4999-8396-461F2F40C491",
+        "name": "Virgin Islands",
+        "abbreviation": "VI"
+    },
+    {
+        "id": "B5AC3ED4-AAC2-4568-96D9-B038B8C502FE",
+        "name": "Virginia",
+        "abbreviation": "VA"
+    },
+    {
+        "id": "44BA42CE-7B3A-4E24-8C9E-3220A27BA395",
+        "name": "Washington",
+        "abbreviation": "WA"
+    },
+    {
+        "id": "A818E880-D29E-4439-8FE8-1BAE727B38CF",
+        "name": "West Virginia",
+        "abbreviation": "WV"
+    },
+    {
+        "id": "559CE0D2-F9ED-4E51-935C-D95A46EFEED2",
+        "name": "Wisconsin",
+        "abbreviation": "WI"
+    },
+    {
+        "id": "9F9C7AB9-95CE-4757-8239-DA60C9A1FDB4",
+        "name": "Wyoming",
+        "abbreviation": "WY"
+    }
+]

@@ -1,0 +1,1172 @@
+[
+    {
+        "id": "689986DF-8D84-4701-A14F-1AA344EB1FCB",
+        "name": "Andorra",
+        "iso2": "AD",
+        "iso3": "AND"
+    },
+    {
+        "id": "00E1DE4C-E772-432F-8374-A1D231A7AD94",
+        "name": "United Arab Emirates",
+        "iso2": "AE",
+        "iso3": "ARE"
+    },
+    {
+        "id": "92B48B5F-5E75-4EFC-A118-F727C7A43E6A",
+        "name": "Afghanistan",
+        "iso2": "AF",
+        "iso3": "AFG"
+    },
+    {
+        "id": "CD5C9AEF-C30D-4343-85D8-A49E089E2D94",
+        "name": "Antigua and Barbuda",
+        "iso2": "AG",
+        "iso3": "ATG"
+    },
+    {
+        "id": "47050966-8294-4687-8967-F77E08FCD87B",
+        "name": "Albania",
+        "iso2": "AL",
+        "iso3": "ALB"
+    },
+    {
+        "id": "0CD1F526-F5EC-4103-A58E-7418AF0BB723",
+        "name": "Armenia",
+        "iso2": "AM",
+        "iso3": "ARM"
+    },
+    {
+        "id": "65577599-A941-4F08-BAD8-258273D1F739",
+        "name": "Angola",
+        "iso2": "AO",
+        "iso3": "AGO"
+    },
+    {
+        "id": "89E30DE5-D062-4F77-B831-5451D002226A",
+        "name": "Argentina",
+        "iso2": "AR",
+        "iso3": "ARG"
+    },
+    {
+        "id": "94E09ADB-713C-41F4-A4A8-90FC17DC86B0",
+        "name": "Austria",
+        "iso2": "AT",
+        "iso3": "AUT"
+    },
+    {
+        "id": "8B3CB17E-F78C-4507-B687-5F6B74BAFA25",
+        "name": "Australia",
+        "iso2": "AU",
+        "iso3": "AUS"
+    },
+    {
+        "id": "D448A527-F9DD-4095-B00A-9C730B427C0D",
+        "name": "Azerbaijan",
+        "iso2": "AZ",
+        "iso3": "AZE"
+    },
+    {
+        "id": "38D1B550-AACC-44D9-A535-AA214DCB9564",
+        "name": "Bosnia and Herzegovina",
+        "iso2": "BA",
+        "iso3": "BIH"
+    },
+    {
+        "id": "8103D233-5860-43D7-9C5E-009C55A1ED8D",
+        "name": "Barbados",
+        "iso2": "BB",
+        "iso3": "BRB"
+    },
+    {
+        "id": "D0CBB955-256A-4A21-BE43-9B180347D567",
+        "name": "Bangladesh",
+        "iso2": "BD",
+        "iso3": "BGD"
+    },
+    {
+        "id": "A2511908-2FBF-41EE-AB7D-A2EBF03D831B",
+        "name": "Belgium",
+        "iso2": "BE",
+        "iso3": "BEL"
+    },
+    {
+        "id": "143BF1F8-D1E7-4FDD-B69F-E53BDBFBCB19",
+        "name": "Burkina Faso",
+        "iso2": "BF",
+        "iso3": "BFA"
+    },
+    {
+        "id": "50627042-2694-40BC-A382-7D272736C0D4",
+        "name": "Bulgaria",
+        "iso2": "BG",
+        "iso3": "BGR"
+    },
+    {
+        "id": "2BC5B17C-0F3F-4E00-B3D3-7B261184851A",
+        "name": "Bahrain",
+        "iso2": "BH",
+        "iso3": "BHR"
+    },
+    {
+        "id": "5782161D-6E85-4A3A-8058-B2F25B89F485",
+        "name": "Burundi",
+        "iso2": "BI",
+        "iso3": "BDI"
+    },
+    {
+        "id": "FAABBD36-7C24-4A7C-9628-D03199BF41F5",
+        "name": "Benin",
+        "iso2": "BJ",
+        "iso3": "BEN"
+    },
+    {
+        "id": "B9BBE1E0-B74D-43B6-A4EB-638B0CBF9E29",
+        "name": "Brunei",
+        "iso2": "BN",
+        "iso3": "BRN"
+    },
+    {
+        "id": "9274D5A8-4E3E-4F24-B17F-B48478B5E42B",
+        "name": "Bolivia",
+        "iso2": "BO",
+        "iso3": "BOL"
+    },
+    {
+        "id": "AE1D319C-9FAF-4B86-A16E-881F7BBC428F",
+        "name": "Brazil",
+        "iso2": "BR",
+        "iso3": "BRA"
+    },
+    {
+        "id": "1BA3463A-9DBA-4D43-A164-E954CE2F41B1",
+        "name": "Bahamas",
+        "iso2": "BS",
+        "iso3": "BHS"
+    },
+    {
+        "id": "39E546B4-6D9E-48C9-91C9-ED6317C2FAC4",
+        "name": "Bhutan",
+        "iso2": "BT",
+        "iso3": "BTN"
+    },
+    {
+        "id": "C5F6D4F9-218E-4971-8B46-41E1D9BC8873",
+        "name": "Botswana",
+        "iso2": "BW",
+        "iso3": "BWA"
+    },
+    {
+        "id": "454CEAB2-3B6E-40E1-B150-311235DD4982",
+        "name": "Belarus",
+        "iso2": "BY",
+        "iso3": "BLR"
+    },
+    {
+        "id": "3FB612E1-667E-4AD3-9D08-10EEA9866A49",
+        "name": "Belize",
+        "iso2": "BZ",
+        "iso3": "BLZ"
+    },
+    {
+        "id": "B84ED1D4-ECBD-43C2-9903-D0287F03425F",
+        "name": "Canada",
+        "iso2": "CA",
+        "iso3": "CAN"
+    },
+    {
+        "id": "24A9DBEF-251A-46B8-A29F-E63831B39BEA",
+        "name": "Congo, Democratic Republic",
+        "iso2": "CD",
+        "iso3": "COD"
+    },
+    {
+        "id": "CA2AA169-3E8E-492E-ABEB-CE4DF7FFA816",
+        "name": "Central African Republic",
+        "iso2": "CF",
+        "iso3": "CAF"
+    },
+    {
+        "id": "0A7942AA-64F1-4D6F-B588-663A5D7BB75B",
+        "name": "Congo",
+        "iso2": "CG",
+        "iso3": "COG"
+    },
+    {
+        "id": "4442C860-5C47-45B2-8B57-34A1710755DE",
+        "name": "Switzerland",
+        "iso2": "CH",
+        "iso3": "CHE"
+    },
+    {
+        "id": "95DF9558-8B4B-45AC-ADDE-BB47C7D0422E",
+        "name": "Côte d'Ivoire (Ivory Coast)",
+        "iso2": "CI",
+        "iso3": "CIV"
+    },
+    {
+        "id": "4C32F96B-7BDA-42ED-A137-46B6C69B54E9",
+        "name": "Chile",
+        "iso2": "CL",
+        "iso3": "CHL"
+    },
+    {
+        "id": "12081099-512B-401D-B7C4-985F5CF913DE",
+        "name": "Cameroon",
+        "iso2": "CM",
+        "iso3": "CMR"
+    },
+    {
+        "id": "BFABCCBE-B88A-41E9-9203-A4773CD755C9",
+        "name": "China",
+        "iso2": "CN",
+        "iso3": "CHN"
+    },
+    {
+        "id": "C2FFAABD-10E1-47B8-94EB-687572EA213A",
+        "name": "Colombia",
+        "iso2": "CO",
+        "iso3": "COL"
+    },
+    {
+        "id": "5F9AAD93-ECFC-4D85-A42C-2F75C3F7F112",
+        "name": "Costa Rica",
+        "iso2": "CR",
+        "iso3": "CRI"
+    },
+    {
+        "id": "6D944B2F-7784-42AC-8215-E2F3A4963DB4",
+        "name": "Cuba",
+        "iso2": "CU",
+        "iso3": "CUB"
+    },
+    {
+        "id": "98397499-BE29-426E-A826-9EB80592AE66",
+        "name": "Cabo Verde",
+        "iso2": "CV",
+        "iso3": "CPV"
+    },
+    {
+        "id": "93934639-69C4-40FB-AC8E-D97B9C074539",
+        "name": "Cyprus",
+        "iso2": "CY",
+        "iso3": "CYP"
+    },
+    {
+        "id": "57A3F24E-0081-4C9A-B458-CD608A9B9638",
+        "name": "Czech Republic",
+        "iso2": "CZ",
+        "iso3": "CZE"
+    },
+    {
+        "id": "9B9D5511-E9D6-45C9-8578-C2CDEDA37FC7",
+        "name": "Germany",
+        "iso2": "DE",
+        "iso3": "DEU"
+    },
+    {
+        "id": "25D273B1-3E7A-41AF-97C3-E819A4B7E8B9",
+        "name": "Djibouti",
+        "iso2": "DJ",
+        "iso3": "DJI"
+    },
+    {
+        "id": "7B35CA7D-87E9-45CE-8FD9-77328BCF045A",
+        "name": "Denmark",
+        "iso2": "DK",
+        "iso3": "DNK"
+    },
+    {
+        "id": "39DB79BA-A43A-46A5-A428-828752D37298",
+        "name": "Dominica",
+        "iso2": "DM",
+        "iso3": "DMA"
+    },
+    {
+        "id": "B55D014E-34CC-4EEB-9FF3-0E50A11086D2",
+        "name": "Dominican Republic",
+        "iso2": "DO",
+        "iso3": "DOM"
+    },
+    {
+        "id": "BD92F98C-C11D-4645-A97B-94E71178DC18",
+        "name": "Algeria",
+        "iso2": "DZ",
+        "iso3": "DZA"
+    },
+    {
+        "id": "47C4B157-EEFF-47ED-8FCC-B8F77EA85FAA",
+        "name": "Ecuador",
+        "iso2": "EC",
+        "iso3": "ECU"
+    },
+    {
+        "id": "1B311985-4771-4D42-8D49-CB9568DDE0DE",
+        "name": "Estonia",
+        "iso2": "EE",
+        "iso3": "EST"
+    },
+    {
+        "id": "C6F0E960-FE09-49BE-8957-0B121AD7A80C",
+        "name": "Egypt",
+        "iso2": "EG",
+        "iso3": "EGY"
+    },
+    {
+        "id": "55FC22AF-768C-4F76-A052-EA01253C4A35",
+        "name": "Eritrea",
+        "iso2": "ER",
+        "iso3": "ERI"
+    },
+    {
+        "id": "C275A6EE-BAD3-4D91-8D86-72E9D16F9C6C",
+        "name": "Spain",
+        "iso2": "ES",
+        "iso3": "ESP"
+    },
+    {
+        "id": "1FA4BBDE-0DD3-4928-8498-368FECE83980",
+        "name": "Ethiopia",
+        "iso2": "ET",
+        "iso3": "ETH"
+    },
+    {
+        "id": "0B434839-3A09-48A4-B8CD-FCB2440FE189",
+        "name": "Finland",
+        "iso2": "FI",
+        "iso3": "FIN"
+    },
+    {
+        "id": "17C1CFE0-AB3E-4923-9026-35C6248439C4",
+        "name": "Fiji",
+        "iso2": "FJ",
+        "iso3": "FJI"
+    },
+    {
+        "id": "15C142FC-43FC-45CF-9927-4304318896E7",
+        "name": "Micronesia",
+        "iso2": "FM",
+        "iso3": "FSM"
+    },
+    {
+        "id": "BB6B5D49-461B-4DDB-A987-653636D1EED2",
+        "name": "France",
+        "iso2": "FR",
+        "iso3": "FRA"
+    },
+    {
+        "id": "6E7A58D7-118B-43CC-BA5C-41080E191EE1",
+        "name": "Gabon",
+        "iso2": "GA",
+        "iso3": "GAB"
+    },
+    {
+        "id": "C26BFE8E-98AD-4BFF-86EC-8A3022F18D6E",
+        "name": "United Kingdom",
+        "iso2": "GB",
+        "iso3": "GBR"
+    },
+    {
+        "id": "EE4C0247-E92D-414A-8934-4EAE8D038F4F",
+        "name": "Grenada",
+        "iso2": "GD",
+        "iso3": "GRD"
+    },
+    {
+        "id": "9EA821AC-23A4-43CB-9FFD-248B43CCDEA2",
+        "name": "Georgia",
+        "iso2": "GE",
+        "iso3": "GEO"
+    },
+    {
+        "id": "3AB78BDC-E4F6-44ED-8EBE-4A483AF6416E",
+        "name": "Ghana",
+        "iso2": "GH",
+        "iso3": "GHA"
+    },
+    {
+        "id": "E168D4AB-A430-479B-8C7A-4C9BDBE23915",
+        "name": "Gambia",
+        "iso2": "GM",
+        "iso3": "GMB"
+    },
+    {
+        "id": "1F199D69-C60C-4E73-9625-DB4BDAB00E4D",
+        "name": "Guinea",
+        "iso2": "GN",
+        "iso3": "GIN"
+    },
+    {
+        "id": "5BB6767E-E4D8-46A7-B290-BF3998478237",
+        "name": "Equatorial Guinea",
+        "iso2": "GQ",
+        "iso3": "GNQ"
+    },
+    {
+        "id": "8884B69D-51C9-475D-900B-DB40912D4449",
+        "name": "Greece",
+        "iso2": "GR",
+        "iso3": "GRC"
+    },
+    {
+        "id": "3D45FFF5-82D4-4A19-9682-439BEEC94201",
+        "name": "Guatemala",
+        "iso2": "GT",
+        "iso3": "GTM"
+    },
+    {
+        "id": "30B70C23-598E-4156-B0C1-569F94D8ECAD",
+        "name": "Guinea-Bissau",
+        "iso2": "GW",
+        "iso3": "GNB"
+    },
+    {
+        "id": "5FAA5FA9-0EF6-4C4A-A6B7-83C261DE72EE",
+        "name": "Guyana",
+        "iso2": "GY",
+        "iso3": "GUY"
+    },
+    {
+        "id": "8FB58A1C-4969-4788-B7D3-DBC93071810D",
+        "name": "Honduras",
+        "iso2": "HN",
+        "iso3": "HND"
+    },
+    {
+        "id": "8115324B-FFD8-4F56-8853-D688F4298D97",
+        "name": "Croatia",
+        "iso2": "HR",
+        "iso3": "HRV"
+    },
+    {
+        "id": "95F80844-90E2-4FC0-905F-C05272C67EB3",
+        "name": "Haiti",
+        "iso2": "HT",
+        "iso3": "HTI"
+    },
+    {
+        "id": "A16E0842-0A80-47E3-B70E-241FDA0C1FD0",
+        "name": "Hungary",
+        "iso2": "HU",
+        "iso3": "HUN"
+    },
+    {
+        "id": "5945EF7F-FFDE-49C3-AFA3-7019470ED032",
+        "name": "Indonesia",
+        "iso2": "ID",
+        "iso3": "IDN"
+    },
+    {
+        "id": "9D9F1D9E-366A-4DAD-A9C4-ED1152B40A97",
+        "name": "Ireland",
+        "iso2": "IE",
+        "iso3": "IRL"
+    },
+    {
+        "id": "92A349EF-60EF-4095-8E91-BB273B4C9EEA",
+        "name": "Israel",
+        "iso2": "IL",
+        "iso3": "ISR"
+    },
+    {
+        "id": "BF10BDF5-BE56-4D76-BF87-0C9D2A56602A",
+        "name": "India",
+        "iso2": "IN",
+        "iso3": "IND"
+    },
+    {
+        "id": "05AB2479-0A23-4A95-8A11-07984697869E",
+        "name": "Iraq",
+        "iso2": "IQ",
+        "iso3": "IRQ"
+    },
+    {
+        "id": "2A0BBD5A-893F-4F5E-AE38-7B8E6D110023",
+        "name": "Iran",
+        "iso2": "IR",
+        "iso3": "IRN"
+    },
+    {
+        "id": "107F83AC-B516-4CD9-AC75-35163F306C79",
+        "name": "Iceland",
+        "iso2": "IS",
+        "iso3": "ISL"
+    },
+    {
+        "id": "7EB2193D-F5CC-4358-B30E-861C9AB5AC92",
+        "name": "Italy",
+        "iso2": "IT",
+        "iso3": "ITA"
+    },
+    {
+        "id": "4948E734-C70C-4784-B446-794ED8251C5B",
+        "name": "Jamaica",
+        "iso2": "JM",
+        "iso3": "JAM"
+    },
+    {
+        "id": "D406C090-4BF1-450B-91CD-E4FE58F5813E",
+        "name": "Jordan",
+        "iso2": "JO",
+        "iso3": "JOR"
+    },
+    {
+        "id": "C541F824-1219-41D4-9923-8D51E464CF79",
+        "name": "Japan",
+        "iso2": "JP",
+        "iso3": "JPN"
+    },
+    {
+        "id": "05C75E72-3C5B-4DFF-AEFB-53CCF38DFC18",
+        "name": "Kenya",
+        "iso2": "KE",
+        "iso3": "KEN"
+    },
+    {
+        "id": "557F01FB-CC43-4A53-B887-84F633DB7D65",
+        "name": "Kyrgyzstan",
+        "iso2": "KG",
+        "iso3": "KGZ"
+    },
+    {
+        "id": "E397299D-CCAE-4E65-96AF-707CB61DC372",
+        "name": "Cambodia",
+        "iso2": "KH",
+        "iso3": "KHM"
+    },
+    {
+        "id": "C5D61CC1-9FFE-4543-8DBF-6D9FCBA6253F",
+        "name": "Kiribati",
+        "iso2": "KI",
+        "iso3": "KIR"
+    },
+    {
+        "id": "96B928CA-93BA-46E7-975E-A992104775EF",
+        "name": "Comoros",
+        "iso2": "KM",
+        "iso3": "COM"
+    },
+    {
+        "id": "8844958B-0604-4F18-AD9C-BFB45E0E8C11",
+        "name": "Saint Kitts and Nevis",
+        "iso2": "KN",
+        "iso3": "KNA"
+    },
+    {
+        "id": "3B1C2351-EE65-495A-A713-92A4258A4F4D",
+        "name": "North Korea",
+        "iso2": "KP",
+        "iso3": "PRK"
+    },
+    {
+        "id": "1CECECEC-8C23-4786-BCCC-6F93F5A51466",
+        "name": "South Korea",
+        "iso2": "KR",
+        "iso3": "KOR"
+    },
+    {
+        "id": "CA00899B-1F79-492D-82D7-B2AA47ACD87D",
+        "name": "Kuwait",
+        "iso2": "KW",
+        "iso3": "KWT"
+    },
+    {
+        "id": "4FF14FB9-16D9-4BD6-979A-52AA99A94493",
+        "name": "Kazakhstan",
+        "iso2": "KZ",
+        "iso3": "KAZ"
+    },
+    {
+        "id": "2AF6FF2D-CF9F-45F0-BBC8-53419CB9AC1E",
+        "name": "Laos",
+        "iso2": "LA",
+        "iso3": "LAO"
+    },
+    {
+        "id": "B5C66B30-4AC2-4276-A9AC-784BBFFD55EA",
+        "name": "Lebanon",
+        "iso2": "LB",
+        "iso3": "LBN"
+    },
+    {
+        "id": "88F7BB6B-C53E-403C-A0F1-A2A548725978",
+        "name": "Saint Lucia",
+        "iso2": "LC",
+        "iso3": "LCA"
+    },
+    {
+        "id": "7AD9C619-398D-4EC1-A323-505BF785B398",
+        "name": "Liechtenstein",
+        "iso2": "LI",
+        "iso3": "LIE"
+    },
+    {
+        "id": "A1EBD64C-602A-44D5-BE21-7EAFCB8BB114",
+        "name": "Sri Lanka",
+        "iso2": "LK",
+        "iso3": "LKA"
+    },
+    {
+        "id": "F759B994-6B29-49E1-AF05-18C8753D4938",
+        "name": "Liberia",
+        "iso2": "LR",
+        "iso3": "LBR"
+    },
+    {
+        "id": "474325B8-299F-4373-A1D5-4978A6B9B6F1",
+        "name": "Lesotho",
+        "iso2": "LS",
+        "iso3": "LSO"
+    },
+    {
+        "id": "9AA7AD05-6616-4082-8416-A61320F1F3B4",
+        "name": "Lithuania",
+        "iso2": "LT",
+        "iso3": "LTU"
+    },
+    {
+        "id": "54804225-D360-47DA-AF6F-E9CDA3E504D5",
+        "name": "Luxembourg",
+        "iso2": "LU",
+        "iso3": "LUX"
+    },
+    {
+        "id": "9729FDA0-1E32-400E-BBBB-905139547326",
+        "name": "Latvia",
+        "iso2": "LV",
+        "iso3": "LVA"
+    },
+    {
+        "id": "59614C96-E620-42DD-AB44-6E686F7162EF",
+        "name": "Libya",
+        "iso2": "LY",
+        "iso3": "LBY"
+    },
+    {
+        "id": "62EABE9F-6C19-41B9-A02C-9FDA5C081990",
+        "name": "Morocco",
+        "iso2": "MA",
+        "iso3": "MAR"
+    },
+    {
+        "id": "F7B0FB0B-D168-40FB-96FF-6A303E2D4EDE",
+        "name": "Monaco",
+        "iso2": "MC",
+        "iso3": "MCO"
+    },
+    {
+        "id": "06226229-504F-4924-AB3E-0CA3F363E88D",
+        "name": "Moldova",
+        "iso2": "MD",
+        "iso3": "MDA"
+    },
+    {
+        "id": "11676E3F-82DB-4B20-B3CB-D4368133060F",
+        "name": "Montenegro",
+        "iso2": "ME",
+        "iso3": "MNE"
+    },
+    {
+        "id": "C4BAEA6F-10DC-4B0A-8B98-182EF59B6229",
+        "name": "Madagascar",
+        "iso2": "MG",
+        "iso3": "MDG"
+    },
+    {
+        "id": "5E87C172-1115-4B52-ADA3-701B9793A143",
+        "name": "Marshall Islands",
+        "iso2": "MH",
+        "iso3": "MHL"
+    },
+    {
+        "id": "096E1251-93E9-4CE3-B0D7-E1FA43DBB5BC",
+        "name": "North Macedonia",
+        "iso2": "MK",
+        "iso3": "MKD"
+    },
+    {
+        "id": "BEBA8460-E5B2-4F79-A94C-2C4044B7D28D",
+        "name": "Mali",
+        "iso2": "ML",
+        "iso3": "MLI"
+    },
+    {
+        "id": "7E8001F5-C37A-4FFF-AE13-0A761A67601B",
+        "name": "Myanmar",
+        "iso2": "MM",
+        "iso3": "MMR"
+    },
+    {
+        "id": "AD947858-3DFA-4424-A790-746841714D06",
+        "name": "Mongolia",
+        "iso2": "MN",
+        "iso3": "MNG"
+    },
+    {
+        "id": "DE38C87E-955F-44FE-9C49-25D11A6FCDE6",
+        "name": "Mauritania",
+        "iso2": "MR",
+        "iso3": "MRT"
+    },
+    {
+        "id": "C495012D-D23F-467B-9F8C-3CA64FB6543A",
+        "name": "Malta",
+        "iso2": "MT",
+        "iso3": "MLT"
+    },
+    {
+        "id": "C86CC30E-FFD3-4EC4-A70D-6C19D27995BF",
+        "name": "Mauritius",
+        "iso2": "MU",
+        "iso3": "MUS"
+    },
+    {
+        "id": "00C0FB8F-2ACF-4FB8-887F-ECA79BD94317",
+        "name": "Maldives",
+        "iso2": "MV",
+        "iso3": "MDV"
+    },
+    {
+        "id": "193AB0D3-A291-4FE0-96B5-91D70AD15E84",
+        "name": "Malawi",
+        "iso2": "MW",
+        "iso3": "MWI"
+    },
+    {
+        "id": "D4D06776-68D8-4300-91D0-32AD9D4C8F5A",
+        "name": "Mexico",
+        "iso2": "MX",
+        "iso3": "MEX"
+    },
+    {
+        "id": "4FA1250B-FE75-41E4-A7FF-B20FD9C9F465",
+        "name": "Malaysia",
+        "iso2": "MY",
+        "iso3": "MYS"
+    },
+    {
+        "id": "1040714C-3BC0-4C16-8D80-01AC93A06486",
+        "name": "Mozambique",
+        "iso2": "MZ",
+        "iso3": "MOZ"
+    },
+    {
+        "id": "AB90BACF-0690-453A-9E49-87E7F1AD39C1",
+        "name": "Namibia",
+        "iso2": "NA",
+        "iso3": "NAM"
+    },
+    {
+        "id": "C2B88590-0158-47BA-8649-CEF07BB7485B",
+        "name": "Niger",
+        "iso2": "NE",
+        "iso3": "NER"
+    },
+    {
+        "id": "3E6FA542-09A1-4028-9F9A-AA20AE7A1B56",
+        "name": "Nigeria",
+        "iso2": "NG",
+        "iso3": "NGA"
+    },
+    {
+        "id": "C41607A2-6E0D-4EE5-A66A-38E98CCD6109",
+        "name": "Nicaragua",
+        "iso2": "NI",
+        "iso3": "NIC"
+    },
+    {
+        "id": "21BE0FE5-0D5C-47D8-8BBD-C454F14E7EC6",
+        "name": "Netherlands",
+        "iso2": "NL",
+        "iso3": "NLD"
+    },
+    {
+        "id": "7A6E64B3-D60F-499D-BB37-37AB36B0F5E3",
+        "name": "Norway",
+        "iso2": "NO",
+        "iso3": "NOR"
+    },
+    {
+        "id": "14964107-CD67-40EB-9968-043C1727A761",
+        "name": "Nepal",
+        "iso2": "NP",
+        "iso3": "NPL"
+    },
+    {
+        "id": "EA6E4442-3BB3-47FC-8043-7D3DA281D260",
+        "name": "Nauru",
+        "iso2": "NR",
+        "iso3": "NRU"
+    },
+    {
+        "id": "D06FEB94-24C8-48AC-AF54-7025F74BA3D7",
+        "name": "New Zealand",
+        "iso2": "NZ",
+        "iso3": "NZL"
+    },
+    {
+        "id": "7FAA64D3-C4EB-4C87-B745-D80CFCC2A435",
+        "name": "Oman",
+        "iso2": "OM",
+        "iso3": "OMN"
+    },
+    {
+        "id": "1B767272-DC06-4C39-9052-BC679FCBC72C",
+        "name": "Panama",
+        "iso2": "PA",
+        "iso3": "PAN"
+    },
+    {
+        "id": "BCB071C4-711D-49E6-9795-A538F88F00EA",
+        "name": "Peru",
+        "iso2": "PE",
+        "iso3": "PER"
+    },
+    {
+        "id": "75D6E4EA-8683-4EC0-8EA7-C0010F00B84C",
+        "name": "Papua New Guinea",
+        "iso2": "PG",
+        "iso3": "PNG"
+    },
+    {
+        "id": "BEAD2FA7-87A3-47E6-B655-7A3FCF356CAB",
+        "name": "Philippines",
+        "iso2": "PH",
+        "iso3": "PHL"
+    },
+    {
+        "id": "91110BE1-E324-4D42-A0AF-C967A29933EC",
+        "name": "Pakistan",
+        "iso2": "PK",
+        "iso3": "PAK"
+    },
+    {
+        "id": "E5C07332-DD7D-4E04-9FFB-79276A859378",
+        "name": "Poland",
+        "iso2": "PL",
+        "iso3": "POL"
+    },
+    {
+        "id": "A813778D-B992-4E80-B812-827A5FFBCC2C",
+        "name": "State of Palestine",
+        "iso2": "PS",
+        "iso3": "PSE"
+    },
+    {
+        "id": "F58A8FD7-9EDA-4215-814C-C4BBC0CB16FF",
+        "name": "Portugal",
+        "iso2": "PT",
+        "iso3": "PRT"
+    },
+    {
+        "id": "7BCEB465-80E4-44DB-AD8C-860752861133",
+        "name": "Palau",
+        "iso2": "PW",
+        "iso3": "PLW"
+    },
+    {
+        "id": "1574CEFB-420B-4DBC-AE65-17064AF2CB8C",
+        "name": "Paraguay",
+        "iso2": "PY",
+        "iso3": "PRY"
+    },
+    {
+        "id": "3CFE5460-C6A9-48ED-B254-DEC3AAAE8554",
+        "name": "Qatar",
+        "iso2": "QA",
+        "iso3": "QAT"
+    },
+    {
+        "id": "884A7C3D-4043-45D8-AF31-9148538AE5EE",
+        "name": "Romania",
+        "iso2": "RO",
+        "iso3": "ROU"
+    },
+    {
+        "id": "476D3B32-B100-4A2C-B960-CA6C5E7AF31C",
+        "name": "Serbia",
+        "iso2": "RS",
+        "iso3": "SRB"
+    },
+    {
+        "id": "88B332B5-9CDD-4B77-B5E9-DE90C91917CA",
+        "name": "Russia",
+        "iso2": "RU",
+        "iso3": "RUS"
+    },
+    {
+        "id": "60039A76-CA83-4088-8C6F-97713AC16FC8",
+        "name": "Rwanda",
+        "iso2": "RW",
+        "iso3": "RWA"
+    },
+    {
+        "id": "7464540B-1D30-43D4-9845-B6B35B514E7F",
+        "name": "Saudi Arabia",
+        "iso2": "SA",
+        "iso3": "SAU"
+    },
+    {
+        "id": "074182BD-1CC2-4247-865B-4C15FAA9C731",
+        "name": "Solomon Islands",
+        "iso2": "SB",
+        "iso3": "SLB"
+    },
+    {
+        "id": "1B6C76E6-773E-449E-B563-32D0B2CCF5AF",
+        "name": "Seychelles",
+        "iso2": "SC",
+        "iso3": "SYC"
+    },
+    {
+        "id": "6E08F587-CC6E-42B8-A1B0-E1CC32424063",
+        "name": "Sudan",
+        "iso2": "SD",
+        "iso3": "SDN"
+    },
+    {
+        "id": "858D162C-FC7F-4769-B0F3-2ECA16F998A4",
+        "name": "Sweden",
+        "iso2": "SE",
+        "iso3": "SWE"
+    },
+    {
+        "id": "63EA689F-F59F-4B85-A68A-59ACD51BCCE2",
+        "name": "Singapore",
+        "iso2": "SG",
+        "iso3": "SGP"
+    },
+    {
+        "id": "0BCF7260-F066-4917-99A0-9B190632A598",
+        "name": "Slovenia",
+        "iso2": "SI",
+        "iso3": "SVN"
+    },
+    {
+        "id": "DC938933-DB41-4A7C-808F-146E81F8BC54",
+        "name": "Slovakia",
+        "iso2": "SK",
+        "iso3": "SVK"
+    },
+    {
+        "id": "42469B13-EC5A-4E61-9590-8758EFC97850",
+        "name": "Sierra Leone",
+        "iso2": "SL",
+        "iso3": "SLE"
+    },
+    {
+        "id": "0CAE017E-5401-4AB5-A595-2925D2ACFEDD",
+        "name": "San Marino",
+        "iso2": "SM",
+        "iso3": "SMR"
+    },
+    {
+        "id": "3F5EBA57-83F3-4CFE-BE28-BF5F8C01F1B7",
+        "name": "Senegal",
+        "iso2": "SN",
+        "iso3": "SEN"
+    },
+    {
+        "id": "21020590-AA4C-47CC-8F3E-78081457F837",
+        "name": "Somalia",
+        "iso2": "SO",
+        "iso3": "SOM"
+    },
+    {
+        "id": "1239061B-1A82-400D-AD0B-8CD8EF8FFD3A",
+        "name": "Suriname",
+        "iso2": "SR",
+        "iso3": "SUR"
+    },
+    {
+        "id": "3DEC3EB2-E434-460F-8397-C05D6B1F275B",
+        "name": "South Sudan",
+        "iso2": "SS",
+        "iso3": "SSD"
+    },
+    {
+        "id": "353FA740-50C7-49D6-B702-BB25C23A7453",
+        "name": "Sao Tome and Principe",
+        "iso2": "ST",
+        "iso3": "STP"
+    },
+    {
+        "id": "0276282F-AA79-429E-8426-2FDB25D6A9DB",
+        "name": "El Salvador",
+        "iso2": "SV",
+        "iso3": "SLV"
+    },
+    {
+        "id": "AE0DF1B0-6780-4C9D-9C65-D95E4375C220",
+        "name": "Syria",
+        "iso2": "SY",
+        "iso3": "SYR"
+    },
+    {
+        "id": "3694A99C-F04C-4A6D-9DFD-12F9AF1D42C1",
+        "name": "Kingdom of Eswatini",
+        "iso2": "SZ",
+        "iso3": "SWZ"
+    },
+    {
+        "id": "3E88F8E4-1C4A-44DF-9B07-CB4799EE77A8",
+        "name": "Chad",
+        "iso2": "TD",
+        "iso3": "TCD"
+    },
+    {
+        "id": "86792C20-6B72-46F1-8A79-8B50CBC66877",
+        "name": "Togo",
+        "iso2": "TG",
+        "iso3": "TGO"
+    },
+    {
+        "id": "323B2D32-F18C-42A3-B9CF-8E1370FC5BEA",
+        "name": "Thailand",
+        "iso2": "TH",
+        "iso3": "THA"
+    },
+    {
+        "id": "10944D56-4330-47A6-97E5-46C81D2DFCAA",
+        "name": "Tajikistan",
+        "iso2": "TJ",
+        "iso3": "TJK"
+    },
+    {
+        "id": "E9304C9A-2924-4C0D-9B00-0F79EAA46D89",
+        "name": "Timor-Leste",
+        "iso2": "TL",
+        "iso3": "TLS"
+    },
+    {
+        "id": "4C9A1F97-1B6A-46A0-BC9D-691887B727A0",
+        "name": "Turkmenistan",
+        "iso2": "TM",
+        "iso3": "TKM"
+    },
+    {
+        "id": "6DC3438F-B101-4147-9BA3-5E60AEB70162",
+        "name": "Tunisia",
+        "iso2": "TN",
+        "iso3": "TUN"
+    },
+    {
+        "id": "269E9469-6AA0-444D-9810-2DA9ECA60EBD",
+        "name": "Tonga",
+        "iso2": "TO",
+        "iso3": "TON"
+    },
+    {
+        "id": "1621120B-F4FA-4C55-AEF9-B755EF98FAF5",
+        "name": "Turkey",
+        "iso2": "TR",
+        "iso3": "TUR"
+    },
+    {
+        "id": "96C241D5-6A0B-4F8A-A28B-5B52E11F6DDB",
+        "name": "Trinidad and Tobago",
+        "iso2": "TT",
+        "iso3": "TTO"
+    },
+    {
+        "id": "4A491240-8AD7-4AD1-AD9C-CBBB61E44AEF",
+        "name": "Tuvalu",
+        "iso2": "TV",
+        "iso3": "TUV"
+    },
+    {
+        "id": "84394045-7466-4985-A447-A864949E0857",
+        "name": "Tanzania",
+        "iso2": "TZ",
+        "iso3": "TZA"
+    },
+    {
+        "id": "E6AFE64D-CA7E-40C5-BC97-0CC55313B4BA",
+        "name": "Ukraine",
+        "iso2": "UA",
+        "iso3": "UKR"
+    },
+    {
+        "id": "28749405-0234-47EE-940A-9D5531A6FD1C",
+        "name": "Uganda",
+        "iso2": "UG",
+        "iso3": "UGA"
+    },
+    {
+        "id": "55DBF6BF-8AA0-474E-A66A-6F6F1DA9F696",
+        "name": "United States",
+        "iso2": "US",
+        "iso3": "USA"
+    },
+    {
+        "id": "315A4960-D373-4BE2-9EB3-30FD7F09A308",
+        "name": "Uruguay",
+        "iso2": "UY",
+        "iso3": "URY"
+    },
+    {
+        "id": "F94BBC2A-67E8-4B47-B6E7-3A4020B2D4F5",
+        "name": "Uzbekistan",
+        "iso2": "UZ",
+        "iso3": "UZB"
+    },
+    {
+        "id": "38CA5054-5F9B-457D-A6DE-8758B70B45AD",
+        "name": "Vatican City State (Holy See)",
+        "iso2": "VA",
+        "iso3": "VAT"
+    },
+    {
+        "id": "BA576C17-8EBF-4B15-B662-2FAC3E4AC4A7",
+        "name": "St. Vincent Grenadines",
+        "iso2": "VC",
+        "iso3": "VCT"
+    },
+    {
+        "id": "8160E292-8D74-4FE5-A61E-4C21E6BF09CF",
+        "name": "Venezuela",
+        "iso2": "VE",
+        "iso3": "VEN"
+    },
+    {
+        "id": "1B3AE438-5FA8-4B6A-A829-8C8FF0723AE4",
+        "name": "Vietnam",
+        "iso2": "VN",
+        "iso3": "VNM"
+    },
+    {
+        "id": "03400D4A-34C6-496F-9000-D30A02D9E4FB",
+        "name": "Vanuatu",
+        "iso2": "VU",
+        "iso3": "VUT"
+    },
+    {
+        "id": "0ECA774B-A355-429D-B9CD-8A335DE666BB",
+        "name": "Samoa",
+        "iso2": "WS",
+        "iso3": "WSM"
+    },
+    {
+        "id": "3F5CE90E-185E-409D-B2B7-9CD87B37E2BB",
+        "name": "Yemen",
+        "iso2": "YE",
+        "iso3": "YEM"
+    },
+    {
+        "id": "32814355-2FB2-4ADD-BD10-FD93B3D2F92F",
+        "name": "South Africa",
+        "iso2": "ZA",
+        "iso3": "ZAF"
+    },
+    {
+        "id": "75F1562C-3830-44EF-800D-41EA13D08640",
+        "name": "Zambia",
+        "iso2": "ZM",
+        "iso3": "ZMB"
+    },
+    {
+        "id": "AACC48C4-589E-42BE-B6DB-2F230C4765A8",
+        "name": "Zimbabwe",
+        "iso2": "ZW",
+        "iso3": "ZWE"
+    }
+]
